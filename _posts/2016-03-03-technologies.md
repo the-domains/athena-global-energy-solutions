@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T20:06:38.695Z'
-dateModified: '2016-03-03T20:06:38.291Z'
+datePublished: '2016-03-03T20:39:53.322Z'
+dateModified: '2016-03-03T20:18:28.408Z'
 title: Technologies
+author: []
+sourcePath: _posts/2016-03-03-technologies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-03-technologies.md
-published: true
 url: technologies/index.html
 _type: Blurb
 
