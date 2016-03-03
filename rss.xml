@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Athena Global Energy Solutions]]></title>
+        <description><![CDATA[Athena Global Energy Solutions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 20:19:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Athena Global Energy Solutions (AGES) is a global leader in energy, environmental, and humanitarian technology solutions.  AGES partners with numerous technology companies to integrate individual technologies into complete, sustainable solutions to enrich the lives of people and communities worldwide. </p>]]></description>
+            <link>undefinedf2bcc91b-246b-444d-8cd2-d5748e46e416/index.html</link>
+            <guid isPermaLink="false">f2bcc91b-246b-444d-8cd2-d5748e46e416</guid>
+            <pubDate>Thu, 03 Mar 2016 20:19:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
