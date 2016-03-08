@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is "Athena Global Energy Solutions" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-03-08T05:46:18.223Z'
-dateModified: '2016-03-08T05:30:02.304Z'
+datePublished: '2016-03-08T05:50:09.695Z'
+dateModified: '2016-03-08T05:49:43.518Z'
 author:
   - name: Athena Global Energy Solutions
     url: 'http://vimeo.com/user30591744'
