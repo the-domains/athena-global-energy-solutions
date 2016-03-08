@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T00:17:46.547Z'
-dateModified: '2016-03-07T23:59:03.008Z'
+datePublished: '2016-03-08T00:36:41.081Z'
+dateModified: '2016-03-08T00:28:31.172Z'
 title: Technologies
 author: []
 sourcePath: _posts/2016-03-03-technologies.md
@@ -22,6 +22,8 @@ url: technologies/index.html
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7a61f6-484c-4b21-bbbc-3d87dd72a508.jpg)
+
 ## AGES Technologies
 
 Technologies that AGES works with must adhere to the company's definition of a socially beneficial endeavor, meaning that the technology has the potential to improve lives. Beyond that fundamental requirement, however, any initiative that AGES aligns itself with must also be Socially, Environmentally, and Financially sustainable. Any Technology, Solution, or Project proposed to AGES must meet ALL THREE of these criteria in order to be considered for possible collaboration and development.
