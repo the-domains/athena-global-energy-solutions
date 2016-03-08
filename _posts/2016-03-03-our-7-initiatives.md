@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T20:17:30.550Z'
-dateModified: '2016-03-03T20:02:41.456Z'
+datePublished: '2016-03-08T07:45:07.249Z'
+dateModified: '2016-03-08T06:12:22.596Z'
 title: OUR 7 INITIATIVES
 author: []
+sourcePath: _posts/2016-03-03-our-7-initiatives.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-our-7-initiatives.md
-published: true
 url: our-7-initiatives/index.html
-_type: WebPage
+_type: Article
 
 ---
 # OUR 7 INITIATIVES
