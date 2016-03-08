@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is "Athena Global Energy Solutions" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-03-08T04:39:16.988Z'
-dateModified: '2016-03-08T04:39:01.486Z'
+datePublished: '2016-03-08T05:29:52.718Z'
+dateModified: '2016-03-08T05:29:46.691Z'
 author:
   - name: Athena Global Energy Solutions
     url: 'http://vimeo.com/user30591744'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Athena Global Energy Solutions
+sourcePath: _posts/2016-03-08-athena-global-energy-solutions.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-08-athena-global-energy-solutions.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
